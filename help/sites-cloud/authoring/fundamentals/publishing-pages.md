@@ -217,7 +217,7 @@ Just as you [use the Manage Publication option to publish](#manage-publication),
 
    ![Unpublishing](/help/sites-cloud/authoring/assets/publishing-unpublish.png)
 
-   Just as publishing later starts a workflow to publish this version of the page at the specified time, deactivating later starts a workflow to unpublish the selected page or pages at a specific time.
+   Just as publishing later starts a workflow to publish a page at the specified time, deactivating later starts a workflow to unpublish the selected page or pages at a specific time.
 
    If you want to cancel a publish/unpublish later, go to the Workflow Console to terminate the corresponding workflow. <!--If you want to cancel a publish/unpublish later, go to the [Workflow Console](/help/sites-administering/workflows.md) to terminate the corresponding workflow.-->
 
