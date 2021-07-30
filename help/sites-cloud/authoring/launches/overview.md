@@ -9,6 +9,9 @@ Launches enable you to efficiently develop content for a future release.
 
 A launch is created to allow you to make changes ready for future publication (while maintaining your current pages). After editing and updating your launch pages you promote them back to the source, then activate the source pages (top-level). Promoting duplicates the launch content back to the source pages and can be done either manually or automatically (dependent on fields set when creating and editing the launch).
 
+>[!NOTE]
+> While promoting a lauch duplicates content from launch to source, the operation will not alter the structure of the source page. For example, if the order of components was changed in launch pages, promoting the launch will not change this order in source pages accordingly. 
+
 For example, the seasonal product pages of your online store are updated quarterly so that the featured products align with the current season. To prepare for the next quarterly update, you can create a launch of the appropriate web pages. Throughout the quarter, the following changes are accumulated in the launch copy:
 
 * Changes to the source pages that occur as a result of normal maintenance tasks. These changes are automatically duplicated in the launch pages.
